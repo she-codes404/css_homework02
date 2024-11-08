@@ -1,0 +1,67 @@
+/* body font */
+.marko-one-regular {
+    font-family: "Marko One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+body {
+    font-family: "Mark One", serif;
+    margin: 0px;
+    padding: 0px;
+    background-color: #FFFFFF;
+}
+/* Author Section */
+.author-section {
+    padding: 10px;
+    text-align: left;
+} 
+.author-section h2 {
+    margin-top: 0;
+    font-size: 20px;
+    font-weight: 700;
+}
+.author-section p {
+    margin-bottom: 0;
+    font-size: 15px;
+}
+/* Main Content */
+#main {
+    background-color: #B298DC;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+}
+main p {
+    font-size: 20px;
+}
+h1 {
+    font-size: 30px;
+    color: #6F2DBD;
+}
+.main_content {
+    background-color:#fffcfc;
+    border: double 10px #37123c; 
+    border-radius: 25px;
+    padding: 5px 10px;
+    color: rgb(55, 16, 60);
+}
+.h2 {
+    color: #3a0ca3;
+}
+h2 {
+    color: black;
+    
+}
+p {
+    color: orange;
+}
+p {
+    color: black;
+    font-size: 15px;
+}
+button {
+    background-color: #468681;
+    color: rgb(245, 251, 239);
+    border-radius: 5px;
+}
